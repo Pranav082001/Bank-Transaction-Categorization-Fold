@@ -49,8 +49,6 @@ def recommend_tags(transaction):
 transaction = "POS XXXXXXXXXXXX1111 DECATHLON SPORTS"
 recommended_tags = recommend_tags(transaction)
 
-# A fastapi model to show output of function recommended_tags
-
 
 app = FastAPI()
 
