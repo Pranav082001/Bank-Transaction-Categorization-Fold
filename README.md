@@ -10,6 +10,7 @@
 
 2) Bert_embedding+Random Forest- \
       a) Used bert to extract contextual information from the input text and then passed the embedding vectors throught random forest.
+b) I was expecting this approach would work better. But it did not. The reason was data was very less and vocabulary was also different. Because of lack of data could not train the tokenizer which would have gained the knowledge of the keywords like POS, MPS... 
 
 ## Data-
 1) The data was not sufficient for the for training as well as evaluation. So manuall generated couple of examples. \
