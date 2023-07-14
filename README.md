@@ -20,3 +20,5 @@
 ## Output-
 ![image](https://github.com/Pranav082001/Bank-Transaction-Categorization-Fold/assets/66110778/bf27828c-9638-4c45-aa2e-54db854689a0)
 
+
+## Future Implementation- https://arxiv.org/pdf/2305.18430.pdf
